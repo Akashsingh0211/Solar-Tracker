@@ -26,5 +26,15 @@ A motor rotates the panel in that direction.
 
 The system continuously adjusts the panel’s position throughout the day.
 
+# Application:
+
+1 Solar power plants
+
+2 Remote off-grid areas
+
+3 Smart energy systems
+
+4 Renewable energy education
+
 
 
